@@ -4,9 +4,6 @@
 ### ❓ Info Box
 JavaEditChecker is a very trivial program in python to check the SHA256 of all versions of minecraft
 
-### 📦 Installation
-    pip install requirements.txt
-
 ### 🚀 Getting Started
 
 - Enter the suspect version
